@@ -3,14 +3,200 @@
     {
       "name": "False Knight",
       "hp": 255,
-      "description": "A maggot piloting heavy armor, posing as a false champion.",
-      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f41b.svg"
+      "description": "A maggot piloting stolen armor, posing as a mighty champion.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f5e1.svg"
+    },
+    {
+      "name": "Failed Champion",
+      "hp": 1000,
+      "description": "A stronger dream version of the False Knight fueled by rage.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f5e1.svg"
     },
     {
       "name": "Hornet (Protector)",
       "hp": 225,
-      "description": "A fast and skilled warrior who tests the Knight in Greenpath.",
+      "description": "A swift warrior who tests the Knight’s strength in Greenpath.",
       "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f577.svg"
+    },
+    {
+      "name": "Hornet (Sentinel)",
+      "hp": 700,
+      "description": "A faster and deadlier rematch against Hornet in Kingdom’s Edge.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f577.svg"
+    },
+    {
+      "name": "Gruz Mother",
+      "hp": 90,
+      "description": "A large flying creature that spawns smaller Gruzzers.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f41b.svg"
+    },
+    {
+      "name": "Vengefly King",
+      "hp": 120,
+      "description": "A giant Vengefly that swoops down aggressively.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f41b.svg"
+    },
+    {
+      "name": "Brooding Mawlek",
+      "hp": 300,
+      "description": "A hidden beast that spits infection and slashes wildly.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f409.svg"
+    },
+    {
+      "name": "Massive Moss Charger",
+      "hp": 350,
+      "description": "A moss-covered creature that charges relentlessly.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f333.svg"
+    },
+    {
+      "name": "Mantis Lords",
+      "hp": 210,
+      "description": "Three skilled warriors who fight with precision and honor.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2694.svg"
+    },
+    {
+      "name": "Soul Warrior",
+      "hp": 150,
+      "description": "A teleporting mage that guards the Soul Sanctum.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2728.svg"
+    },
+    {
+      "name": "Soul Master",
+      "hp": 275,
+      "description": "A powerful mage obsessed with harnessing soul energy.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2728.svg"
+    },
+    {
+      "name": "Soul Tyrant",
+      "hp": 900,
+      "description": "The dream form of the Soul Master with enhanced abilities.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2728.svg"
+    },
+    {
+      "name": "Dung Defender",
+      "hp": 700,
+      "description": "A noble warrior who fights using dung-based attacks.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4a9.svg"
+    },
+    {
+      "name": "White Defender",
+      "hp": 1600,
+      "description": "A dream battle version of the Dung Defender at full strength.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4a9.svg"
+    },
+    {
+      "name": "Broken Vessel",
+      "hp": 525,
+      "description": "A fallen vessel reanimated by infection.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2620.svg"
+    },
+    {
+      "name": "Lost Kin",
+      "hp": 1200,
+      "description": "The dream form of Broken Vessel with increased aggression.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2620.svg"
+    },
+    {
+      "name": "Crystal Guardian",
+      "hp": 280,
+      "description": "A miner overtaken by crystal infection firing lasers.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f48e.svg"
+    },
+    {
+      "name": "Enraged Guardian",
+      "hp": 700,
+      "description": "A stronger version of the Crystal Guardian with faster attacks.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f48e.svg"
+    },
+    {
+      "name": "Uumuu",
+      "hp": 300,
+      "description": "A floating jellyfish protected by electrical shielding.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f41a.svg"
+    },
+    {
+      "name": "Watcher Knights",
+      "hp": 220,
+      "description": "Multiple armored warriors that attack in sequence.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f6e1.svg"
+    },
+    {
+      "name": "The Collector",
+      "hp": 300,
+      "description": "A strange creature that traps enemies in jars.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f52e.svg"
+    },
+    {
+      "name": "Nosk",
+      "hp": 680,
+      "description": "A shape-shifting predator that mimics familiar forms.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f47b.svg"
+    },
+    {
+      "name": "Traitor Lord",
+      "hp": 800,
+      "description": "A mantis leader corrupted by infection.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2694.svg"
+    },
+    {
+      "name": "Hive Knight",
+      "hp": 900,
+      "description": "A loyal guardian of the Hive wielding a lance.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f41d.svg"
+    },
+    {
+      "name": "The Hollow Knight",
+      "hp": 1000,
+      "description": "The chosen vessel meant to contain the Radiance.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f451.svg"
+    },
+    {
+      "name": "Radiance",
+      "hp": 1700,
+      "description": "The true source of the infection, fought in dreams.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2600.svg"
+    },
+    {
+      "name": "Absolute Radiance",
+      "hp": 2000,
+      "description": "An enhanced and final form of the Radiance.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2600.svg"
+    },
+    {
+      "name": "Grey Prince Zote",
+      "hp": 1200,
+      "description": "A dream version of Zote with exaggerated power.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f3ad.svg"
+    },
+    {
+      "name": "God Tamer",
+      "hp": 450,
+      "description": "A warrior who fights alongside a powerful beast.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f3f9.svg"
+    },
+    {
+      "name": "Grimm",
+      "hp": 800,
+      "description": "Leader of the Grimm Troupe wielding fire-based attacks.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f525.svg"
+    },
+    {
+      "name": "Nightmare King Grimm",
+      "hp": 1500,
+      "description": "A faster and more dangerous version of Grimm.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f525.svg"
+    },
+    {
+      "name": "Sly",
+      "hp": 600,
+      "description": "A small but extremely fast and deadly nailmaster.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2694.svg"
+    },
+    {
+      "name": "Pure Vessel",
+      "hp": 1600,
+      "description": "The Hollow Knight in its prime, with perfect combat ability.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f5e1.svg"
     }
   ]
 }
