@@ -10,193 +10,193 @@
       "name": "Failed Champion",
       "hp": 1000,
       "description": "A stronger dream version of the False Knight fueled by rage.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/e/e7/Failed_Champion_Icon.png/150px-Failed_Champion_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/a/ac/Failed-Champion.png"
     },
     {
       "name": "Hornet (Protector)",
       "hp": 225,
       "description": "A swift warrior who tests the Knight's strength in Greenpath.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/e/e9/Hornet_Protector_Icon.png/150px-Hornet_Protector_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/8/80/B_Hornet2.png"
     },
     {
       "name": "Hornet (Sentinel)",
       "hp": 700,
       "description": "A faster and deadlier rematch against Hornet in Kingdom's Edge.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/f/f9/Hornet_Sentinel_Icon.png/149px-Hornet_Sentinel_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/8/80/B_Hornet2.png"
     },
     {
       "name": "Gruz Mother",
       "hp": 90,
       "description": "A large flying creature that spawns smaller Gruzzers.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/e/e2/Gruz_Mother_Icon.png/150px-Gruz_Mother_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/9/9f/B_Gruz_Mother.png"
     },
     {
       "name": "Vengefly King",
       "hp": 120,
       "description": "A giant Vengefly that swoops down aggressively.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/0/08/Vengefly_King_Icon.png/150px-Vengefly_King_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/4/41/B_Vengefly_King.png"
     },
     {
       "name": "Brooding Mawlek",
       "hp": 300,
       "description": "A hidden beast that spits infection and slashes wildly.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/6/6f/Brooding_Mawlek_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/4/42/B_Brooding_Mawlek2.png"
     },
     {
       "name": "Massive Moss Charger",
       "hp": 350,
       "description": "A moss-covered creature that charges relentlessly.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/3/3d/Massive_Moss_Charger_Icon.png/150px-Massive_Moss_Charger_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/6/63/B_Massive_Moss_Charger.png"
     },
     {
       "name": "Mantis Lords",
       "hp": 210,
       "description": "Three skilled warriors who fight with precision and honor.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/b/b2/Mantis_Lords_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/2/2d/B_Mantis_Lords-2.png"
     },
     {
       "name": "Soul Warrior",
       "hp": 150,
       "description": "A teleporting mage that guards the Soul Sanctum.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/0/0c/Soul_Warrior_Icon.png/150px-Soul_Warrior_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/0/0c/B_Soul_Warrior.png"
     },
     {
       "name": "Soul Master",
       "hp": 275,
       "description": "A powerful mage obsessed with harnessing soul energy.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/e/e9/Soul_Master_Icon.png/150px-Soul_Master_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/c/cf/B_Soulmaster.png"
     },
     {
       "name": "Soul Tyrant",
       "hp": 900,
       "description": "The dream form of the Soul Master with enhanced abilities.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/6/6b/Soul_Tyrant_Icon.png/150px-Soul_Tyrant_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/d/dc/Soul-Tyrant.png"
     },
     {
       "name": "Dung Defender",
       "hp": 700,
       "description": "A noble warrior who fights using dung-based attacks.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/b/bd/Dung_Defender_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/0/0e/B_Dung_Defender.png"
     },
     {
       "name": "White Defender",
       "hp": 1600,
       "description": "A dream battle version of the Dung Defender at full strength.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/1/1f/White_Defender_Icon.png/149px-White_Defender_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/a/a7/B_White_Defender.png"
     },
     {
       "name": "Broken Vessel",
       "hp": 525,
       "description": "A fallen vessel reanimated by infection.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/e/e6/Broken_Vessel_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/3/30/B_Broken_Vessel-2.png"
     },
     {
       "name": "Lost Kin",
       "hp": 1200,
       "description": "The dream form of Broken Vessel with increased aggression.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/b/be/Lost_Kin_Icon.png/150px-Lost_Kin_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/9/9d/Lost-Kin.png"
     },
     {
       "name": "Crystal Guardian",
       "hp": 280,
       "description": "A miner overtaken by crystal infection firing lasers.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/a/af/Crystal_Guardian_Icon.png/150px-Crystal_Guardian_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/0/02/B_Crystal_Guardian.png"
     },
     {
       "name": "Enraged Guardian",
       "hp": 700,
       "description": "A stronger version of the Crystal Guardian with faster attacks.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/5/54/Enraged_Guardian_Icon.png/150px-Enraged_Guardian_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/0/02/B_Crystal_Guardian.png"
     },
     {
       "name": "Uumuu",
       "hp": 300,
       "description": "A floating jellyfish protected by electrical shielding.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/d/d9/Uumuu_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/4/49/B_Uumuu.png"
     },
     {
       "name": "Watcher Knights",
       "hp": 220,
       "description": "Multiple armored warriors that attack in sequence.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/b/b3/Watcher_Knight_Icon.png/150px-Watcher_Knight_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/9/9b/B_Watcher_Knight-2.png"
     },
     {
       "name": "The Collector",
       "hp": 300,
       "description": "A strange creature that traps enemies in jars.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/9/9e/The_Collector_Icon.png/150px-The_Collector_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/d/d5/B_Collector.png"
     },
     {
       "name": "Nosk",
       "hp": 680,
       "description": "A shape-shifting predator that mimics familiar forms.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/8/8a/Nosk_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/a/a8/B_Nosk.png"
     },
     {
       "name": "Traitor Lord",
       "hp": 800,
       "description": "A mantis leader corrupted by infection.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/1/15/Traitor_Lord_Icon.png/150px-Traitor_Lord_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/2/2c/B_Traitor_Lord.png"
     },
     {
       "name": "Hive Knight",
       "hp": 900,
       "description": "A loyal guardian of the Hive wielding a lance.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/5/5f/Hive_Knight_Icon.png/149px-Hive_Knight_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/f/fd/Hive_Knight.png"
     },
     {
       "name": "The Hollow Knight",
       "hp": 1000,
       "description": "The chosen vessel meant to contain the Radiance.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/2/24/The_Hollow_Knight_Icon.png/150px-The_Hollow_Knight_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/1/12/B_Hollow_Knight.png"
     },
     {
       "name": "Radiance",
       "hp": 1700,
       "description": "The true source of the infection, fought in dreams.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/b/b8/Radiance_Icon.png/150px-Radiance_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/5/52/B_Radiance.png"
     },
     {
       "name": "Absolute Radiance",
       "hp": 2000,
       "description": "An enhanced and final form of the Radiance.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/6/68/Absolute_Radiance_Icon.png/150px-Absolute_Radiance_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/5/52/B_Radiance.png"
     },
     {
       "name": "Grey Prince Zote",
       "hp": 1200,
       "description": "A dream version of Zote with exaggerated power.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/8/81/Grey_Prince_Zote_Circle.png/150px-Grey_Prince_Zote_Circle.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/1/17/B_Grey_Prince_Zote.png"
     },
     {
       "name": "God Tamer",
       "hp": 450,
       "description": "A warrior who fights alongside a powerful beast.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/1/19/God_Tamer_Icon.png/150px-God_Tamer_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/d/d3/B_God_Tamer.png"
     },
     {
       "name": "Grimm",
       "hp": 800,
       "description": "Leader of the Grimm Troupe wielding fire-based attacks.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/2/23/Troupe_Master_Grimm_Icon.png/150px-Troupe_Master_Grimm_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/5/5b/B_Grimm.png"
     },
     {
       "name": "Nightmare King Grimm",
       "hp": 1500,
       "description": "A faster and more dangerous version of Grimm.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/c/c3/Nightmare_King_Icon.png/150px-Nightmare_King_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/0/09/B_Nightmare_King.png"
     },
     {
       "name": "Sly",
       "hp": 600,
       "description": "A small but extremely fast and deadly nailmaster.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/5/58/Great_Nailsage_Sly_Icon.png/149px-Great_Nailsage_Sly_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/e/ea/B_Great_Nailsage_Sly.png"
     },
     {
       "name": "Pure Vessel",
       "hp": 1600,
       "description": "The Hollow Knight in its prime, with perfect combat ability.",
-      "image": "https://cdn.wikimg.net/en/hkwiki/images/thumb/b/b1/Pure_Vessel_Icon.png/150px-Pure_Vessel_Icon.png"
+      "image": "https://cdn.wikimg.net/en/hkwiki/images/e/e4/B_Pure_Vessel.png"
     }
   ]
 }
