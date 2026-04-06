@@ -1,0 +1,16 @@
+{
+  "bosses": [
+    {
+      "name": "False Knight",
+      "hp": 255,
+      "description": "A maggot piloting heavy armor, posing as a false champion.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f41b.svg"
+    },
+    {
+      "name": "Hornet (Protector)",
+      "hp": 225,
+      "description": "A fast and skilled warrior who tests the Knight in Greenpath.",
+      "image": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f577.svg"
+    }
+  ]
+}
