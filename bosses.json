@@ -3,198 +3,263 @@
     {
       "name": "False Knight",
       "hp": 255,
+      "location": "Forgotten Crossroads",
       "description": "A maggot piloting stolen armor, posing as a mighty champion.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/9/98/B_False_Knight.png"
     },
+
     {
       "name": "Failed Champion",
       "hp": 1000,
+      "location": "Forgotten Crossroads",
       "description": "A stronger dream version of the False Knight fueled by rage.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/a/ac/Failed-Champion.png"
     },
+
     {
       "name": "Hornet (Protector)",
       "hp": 225,
+      "location": "Greenpath",
       "description": "A swift warrior who tests the Knight's strength in Greenpath.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/8/80/B_Hornet2.png"
     },
+
     {
       "name": "Hornet (Sentinel)",
       "hp": 700,
+      "location": "Kingdom's Edge",
       "description": "A faster and deadlier rematch against Hornet in Kingdom's Edge.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/8/80/B_Hornet2.png"
     },
+
     {
       "name": "Gruz Mother",
       "hp": 90,
+      "location": "Forgotten Crossroads",
       "description": "A large flying creature that spawns smaller Gruzzers.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/9/9f/B_Gruz_Mother.png"
     },
+
     {
       "name": "Vengefly King",
       "hp": 120,
+      "location": "Forgotten Crossroads",
       "description": "A giant Vengefly that swoops down aggressively.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/4/41/B_Vengefly_King.png"
     },
+
     {
       "name": "Brooding Mawlek",
       "hp": 300,
+      "location": "Forgotten Crossroads",
       "description": "A hidden beast that spits infection and slashes wildly.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/4/42/B_Brooding_Mawlek2.png"
     },
+
     {
       "name": "Massive Moss Charger",
       "hp": 350,
+      "location": "Greenpath",
       "description": "A moss-covered creature that charges relentlessly.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/6/63/B_Massive_Moss_Charger.png"
     },
+
     {
       "name": "Mantis Lords",
       "hp": 210,
+      "location": "Fungal Wastes",
       "description": "Three skilled warriors who fight with precision and honor.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/2/2d/B_Mantis_Lords-2.png"
     },
+
     {
       "name": "Soul Warrior",
       "hp": 150,
+      "location": "City of Tears",
       "description": "A teleporting mage that guards the Soul Sanctum.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/0/0c/B_Soul_Warrior.png"
     },
+
     {
       "name": "Soul Master",
       "hp": 275,
+      "location": "City of Tears",
       "description": "A powerful mage obsessed with harnessing soul energy.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/c/cf/B_Soulmaster.png"
     },
+
     {
       "name": "Soul Tyrant",
       "hp": 900,
+      "location": "City of Tears",
       "description": "The dream form of the Soul Master with enhanced abilities.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/d/dc/Soul-Tyrant.png"
     },
+
     {
       "name": "Dung Defender",
       "hp": 700,
+      "location": "Royal Waterways",
       "description": "A noble warrior who fights using dung-based attacks.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/0/0e/B_Dung_Defender.png"
     },
+
     {
       "name": "White Defender",
       "hp": 1600,
+      "location": "Royal Waterways",
       "description": "A dream battle version of the Dung Defender at full strength.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/a/a7/B_White_Defender.png"
     },
+
     {
       "name": "Broken Vessel",
       "hp": 525,
+      "location": "Ancient Basin",
       "description": "A fallen vessel reanimated by infection.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/3/30/B_Broken_Vessel-2.png"
     },
+
     {
       "name": "Lost Kin",
       "hp": 1200,
+      "location": "Ancient Basin",
       "description": "The dream form of Broken Vessel with increased aggression.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/9/9d/Lost-Kin.png"
     },
+
     {
       "name": "Crystal Guardian",
       "hp": 280,
+      "location": "Crystal Peak",
       "description": "A miner overtaken by crystal infection firing lasers.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/0/02/B_Crystal_Guardian.png"
     },
+
     {
       "name": "Enraged Guardian",
       "hp": 700,
+      "location": "Crystal Peak",
       "description": "A stronger version of the Crystal Guardian with faster attacks.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/0/02/B_Crystal_Guardian.png"
     },
+
     {
       "name": "Uumuu",
       "hp": 300,
+      "location": "Fog Canyon",
       "description": "A floating jellyfish protected by electrical shielding.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/4/49/B_Uumuu.png"
     },
+
     {
       "name": "Watcher Knights",
       "hp": 220,
+      "location": "City of Tears",
       "description": "Multiple armored warriors that attack in sequence.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/9/9b/B_Watcher_Knight-2.png"
     },
+
     {
       "name": "The Collector",
       "hp": 300,
+      "location": "Kingdom's Edge",
       "description": "A strange creature that traps enemies in jars.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/d/d5/B_Collector.png"
     },
+
     {
       "name": "Nosk",
       "hp": 680,
+      "location": "Deepnest",
       "description": "A shape-shifting predator that mimics familiar forms.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/a/a8/B_Nosk.png"
     },
+
     {
       "name": "Traitor Lord",
       "hp": 800,
+      "location": "Queen's Gardens",
       "description": "A mantis leader corrupted by infection.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/2/2c/B_Traitor_Lord.png"
     },
+
     {
       "name": "Hive Knight",
       "hp": 900,
+      "location": "The Hive",
       "description": "A loyal guardian of the Hive wielding a lance.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/f/fd/Hive_Knight.png"
     },
+
     {
       "name": "The Hollow Knight",
       "hp": 1000,
+      "location": "Forgotten Crossroads",
       "description": "The chosen vessel meant to contain the Radiance.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/1/12/B_Hollow_Knight.png"
     },
+
     {
       "name": "Radiance",
       "hp": 1700,
+      "location": "Dream Realm",
       "description": "The true source of the infection, fought in dreams.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/5/52/B_Radiance.png"
     },
+
     {
       "name": "Absolute Radiance",
       "hp": 2000,
+      "location": "Godhome",
       "description": "An enhanced and final form of the Radiance.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/5/52/B_Radiance.png"
     },
+
     {
       "name": "Grey Prince Zote",
       "hp": 1200,
+      "location": "Dirtmouth",
       "description": "A dream version of Zote with exaggerated power.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/1/17/B_Grey_Prince_Zote.png"
     },
+
     {
       "name": "God Tamer",
       "hp": 450,
+      "location": "Kingdom's Edge",
       "description": "A warrior who fights alongside a powerful beast.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/d/d3/B_God_Tamer.png"
     },
+
     {
       "name": "Grimm",
       "hp": 800,
+      "location": "Dirtmouth",
       "description": "Leader of the Grimm Troupe wielding fire-based attacks.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/5/5b/B_Grimm.png"
     },
+
     {
       "name": "Nightmare King Grimm",
       "hp": 1500,
+      "location": "Dirtmouth",
       "description": "A faster and more dangerous version of Grimm.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/0/09/B_Nightmare_King.png"
     },
+
     {
       "name": "Sly",
       "hp": 600,
+      "location": "Godhome",
       "description": "A small but extremely fast and deadly nailmaster.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/e/ea/B_Great_Nailsage_Sly.png"
     },
+
     {
       "name": "Pure Vessel",
       "hp": 1600,
+      "location": "Godhome",
       "description": "The Hollow Knight in its prime, with perfect combat ability.",
       "image": "https://cdn.wikimg.net/en/hkwiki/images/e/e4/B_Pure_Vessel.png"
     }
